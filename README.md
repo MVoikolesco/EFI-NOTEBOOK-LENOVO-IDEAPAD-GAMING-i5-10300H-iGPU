@@ -24,7 +24,7 @@
 |Display|15,6" 60Hz|
 |Webcam|USB Buil-in|
 |Card Reader|USB Built-in|
-|TouchPad & Keyboard|PS/2 - SYNAPTICS (for ELAN001, please read instruction below)|
+|TouchPad & Keyboard|PS/2 - SYNAPTICS|
 
 ### Working features
 - Intel UHD Graphics 630 (3072 Mb)
