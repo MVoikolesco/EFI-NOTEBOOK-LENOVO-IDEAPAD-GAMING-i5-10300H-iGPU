@@ -1,6 +1,4 @@
-# EFI-NOTEBOOK-LENOVO-IDEAPAD-GAMING-i5-10300H-iGPU
-
-# Notebook Lenovo Ideapad Gaming 3i - i5 10300H & i7 10750H
+# Notebook Lenovo Ideapad Gaming 3i - i5 10300H
 
 ![overview-12 3](https://github.com/MVoikolesco/EFI-NOTEBOOK-LENOVO-IDEAPAD-GAMING-i5-10300H-iGPU/assets/65965956/ba4d2f28-da31-4b1f-8b73-c2c6d43a0d9a)
 
