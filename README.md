@@ -15,7 +15,6 @@
 |-|:-------:|
 |CPU|Intel(R) Core(TM) i5-10300H (Also works with i7 10750H)|
 |Memory|16GB DDR4 (8Gx2)|
-|Storage|NVMe KBG40ZNS512G|
 |GPU|Intel(R) UHD Graphics 630|
 |GPU|NVIDIA GeForce GTX 1650 Ti (Unsupported)|
 |Ethernet|Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller|
